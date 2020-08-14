@@ -19,18 +19,19 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> • 
  <a href="#-features">Features</a> • 
+ <a href="#-caso-você-queira-utilizar-datasets-atualizados">Datasets</a> • 
+ <a href="#-links-úteis">Links úteis</a> • 
  <a href="#-como-contribuir-para-o-projeto">Contribuição</a>  
 </p>
 
 ## 📊 Sobre o projeto
 
-Mapeamento de médias do ENEM com Folium (uma biblioteca que facilita a visualização de dados em um mapa).  A plotagem foi realizada levando-se em consideração os limites estaduais. Sendo assim, existem 27 grupos de escolas. 
+Mapeamento de médias do ENEM com Folium (uma biblioteca que facilita a visualização de dados em um mapa).  A plotagem foi realizada levando-se em consideração os limites estaduais. Sendo assim, existem 27 grupos de escolas. Foram utilizados dois datasets.
 
 O passo a passo pode ser encontrado no meu Medium: <a href="https://medium.com/@WendelMarquesJS/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8r">Mapeamento de médias do ENEM por estado com Folium</a>    
 
 Meu primeiro projeto de ciência de dados. Iniciado para aplicar o que aprendi no curso Python Fundamentos para Análise de Dados (Data Science Academy).
 
----
 
 ## ⭐ Features
 
@@ -41,8 +42,15 @@ Meu primeiro projeto de ciência de dados. Iniciado para aplicar o que aprendi n
 - [x] Numpy
 - [x] Análise Explorátoria 
 
+## 📚 Caso você queira utilizar datasets atualizados
 
----
+• [Microdados ENEM - Inep](http://inep.gov.br/microdados);<br>
+• [Catálogo de Escolas - InepData](https://inepdata.inep.gov.br/analytics/saw.dll?dashboard).
+
+## 🚥 Links úteis
+• [Documentação do Folium](https://python-visualization.github.io/folium/); <br>
+• [Repositório do Folium no GitHub](https://github.com/python-visualization/folium/). <br>
+
 
 ## 💪🏾 Como contribuir para o projeto
 
