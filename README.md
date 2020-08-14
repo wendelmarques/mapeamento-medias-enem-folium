@@ -28,7 +28,7 @@
 
 Mapeamento de médias do ENEM com Folium (uma biblioteca que facilita a visualização de dados em um mapa).  A plotagem foi realizada levando-se em consideração os limites estaduais. Sendo assim, existem 27 grupos de escolas. Foram utilizados dois datasets.
 
-O passo a passo pode ser encontrado no meu Medium: <a href="https://medium.com/@WendelMarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8r">Mapeamento de médias do ENEM por estado com Folium</a>    
+O passo a passo pode ser encontrado no meu Medium: <a href="https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8">Mapeamento de médias do ENEM por estado com Folium</a>    
 
 Meu primeiro projeto de ciência de dados. Iniciado para aplicar o que aprendi no curso Python Fundamentos para Análise de Dados (Data Science Academy).
 
